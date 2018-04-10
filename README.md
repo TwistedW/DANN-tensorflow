@@ -18,7 +18,7 @@ python create_mnistm.py
 This may take a couple minutes and should result in a `mnistm.pkl` file containing generated images.
 
 
-##Training
+## Training
 
 ```
 python main.py
