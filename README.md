@@ -24,7 +24,7 @@ This may take a couple minutes and should result in a `mnistm.pkl` file containi
 python main.py
 ```
 
-## statement
+## Statement
 This experimental idea from ["Domain-Adversarial Training of Neural Networks"](https://arxiv.org/abs/1505.07818) and this is test version.
 
  
